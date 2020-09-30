@@ -84,7 +84,7 @@
 
   <!-- osx -->
   <platform name="osx">
-    <js-module src="src/www/ios/osx-wkwebview-exec.js" name="ios-wkwebview-exec">
+    <js-module src="src/www/ios/ios-wkwebview-exec.js" name="ios-wkwebview-exec">
       <clobbers target="cordova.exec"/>
     </js-module>
 
